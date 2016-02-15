@@ -8,8 +8,9 @@
 
      ‘subject’ Specific person from a group of 30 volunteers within an age bracket of 19-48 years
 
-     ‘activity’ activity performed by a subject ‘LAYING’ ‘SITTING’ ‘STANDING’
+     ‘activity’ Activity performed by a subject: ‘LAYING’ ‘SITTING’ ‘STANDING’
           ‘WALKING’ ‘WALKING_DOWNSTAIRS’ ‘WALKING_UPSTAIRS’
+### Measurement:
 
      ‘tBodyAccMeanX’ a numeric vector
 
