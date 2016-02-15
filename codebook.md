@@ -12,163 +12,163 @@
           ‘WALKING’ ‘WALKING_DOWNSTAIRS’ ‘WALKING_UPSTAIRS’
 ### Measurement:
 
-     ‘tBodyAccMeanX’ a numeric vector
+     ‘tBodyAccMeanX’
 
-     ‘tBodyAccMeanY’ a numeric vector
+     ‘tBodyAccMeanY’
 
-     ‘tBodyAccMeanZ’ a numeric vector
+     ‘tBodyAccMeanZ’
 
-     ‘tGravityAccMeanX’ a numeric vector
+     ‘tGravityAccMeanX’
 
-     ‘tGravityAccMeanY’ a numeric vector
+     ‘tGravityAccMeanY’
 
-     ‘tGravityAccMeanZ’ a numeric vector
+     ‘tGravityAccMeanZ’
 
-     ‘tBodyAccJerkMeanX’ a numeric vector
+     ‘tBodyAccJerkMeanX’
 
-     ‘tBodyAccJerkMeanY’ a numeric vector
+     ‘tBodyAccJerkMeanY’
 
-     ‘tBodyAccJerkMeanZ’ a numeric vector
+     ‘tBodyAccJerkMeanZ’
 
-     ‘tBodyGyroMeanX’ a numeric vector
+     ‘tBodyGyroMeanX’
 
-     ‘tBodyGyroMeanY’ a numeric vector
+     ‘tBodyGyroMeanY’
 
-     ‘tBodyGyroMeanZ’ a numeric vector
+     ‘tBodyGyroMeanZ’
 
-     ‘tBodyGyroJerkMeanX’ a numeric vector
+     ‘tBodyGyroJerkMeanX’
 
-     ‘tBodyGyroJerkMeanY’ a numeric vector
+     ‘tBodyGyroJerkMeanY’
 
-     ‘tBodyGyroJerkMeanZ’ a numeric vector
+     ‘tBodyGyroJerkMeanZ’
 
-     ‘tBodyAccMagMean’ a numeric vector
+     ‘tBodyAccMagMean’
 
-     ‘tGravityAccMagMean’ a numeric vector
+     ‘tGravityAccMagMean’
 
-     ‘tBodyAccJerkMagMean’ a numeric vector
+     ‘tBodyAccJerkMagMean’
 
-     ‘tBodyGyroMagMean’ a numeric vector
+     ‘tBodyGyroMagMean’
 
-     ‘tBodyGyroJerkMagMean’ a numeric vector
+     ‘tBodyGyroJerkMagMean’
 
-     ‘fBodyAccMeanX’ a numeric vector
+     ‘fBodyAccMeanX’
 
-     ‘fBodyAccMeanY’ a numeric vector
+     ‘fBodyAccMeanY’
 
-     ‘fBodyAccMeanZ’ a numeric vector
+     ‘fBodyAccMeanZ’
 
-     ‘fBodyAccMeanFreqX’ a numeric vector
+     ‘fBodyAccMeanFreqX’
 
-     ‘fBodyAccMeanFreqY’ a numeric vector
+     ‘fBodyAccMeanFreqY’
 
-     ‘fBodyAccMeanFreqZ’ a numeric vector
+     ‘fBodyAccMeanFreqZ’
 
-     ‘fBodyAccJerkMeanX’ a numeric vector
+     ‘fBodyAccJerkMeanX’
 
-     ‘fBodyAccJerkMeanY’ a numeric vector
+     ‘fBodyAccJerkMeanY’
 
-     ‘fBodyAccJerkMeanZ’ a numeric vector
+     ‘fBodyAccJerkMeanZ’
 
-     ‘fBodyAccJerkMeanFreqX’ a numeric vector
+     ‘fBodyAccJerkMeanFreqX’
 
-     ‘fBodyAccJerkMeanFreqY’ a numeric vector
+     ‘fBodyAccJerkMeanFreqY’
 
-     ‘fBodyAccJerkMeanFreqZ’ a numeric vector
+     ‘fBodyAccJerkMeanFreqZ’
 
-     ‘fBodyGyroMeanX’ a numeric vector
+     ‘fBodyGyroMeanX’
 
-     ‘fBodyGyroMeanY’ a numeric vector
+     ‘fBodyGyroMeanY’
 
-     ‘fBodyGyroMeanZ’ a numeric vector
+     ‘fBodyGyroMeanZ’
 
-     ‘fBodyGyroMeanFreqX’ a numeric vector
+     ‘fBodyGyroMeanFreqX’
 
-     ‘fBodyGyroMeanFreqY’ a numeric vector
+     ‘fBodyGyroMeanFreqY’
 
-     ‘fBodyGyroMeanFreqZ’ a numeric vector
+     ‘fBodyGyroMeanFreqZ’
 
-     ‘fBodyAccMagMean’ a numeric vector
+     ‘fBodyAccMagMean’
 
-     ‘fBodyAccMagMeanFreq’ a numeric vector
+     ‘fBodyAccMagMeanFreq’
 
-     ‘fBodyBodyAccJerkMagMean’ a numeric vector
+     ‘fBodyBodyAccJerkMagMean’
 
-     ‘fBodyBodyAccJerkMagMeanFreq’ a numeric vector
+     ‘fBodyBodyAccJerkMagMeanFreq’
 
-     ‘fBodyBodyGyroMagMean’ a numeric vector
+     ‘fBodyBodyGyroMagMean’
 
-     ‘fBodyBodyGyroMagMeanFreq’ a numeric vector
+     ‘fBodyBodyGyroMagMeanFreq’
 
-     ‘fBodyBodyGyroJerkMagMean’ a numeric vector
+     ‘fBodyBodyGyroJerkMagMean’
 
-     ‘fBodyBodyGyroJerkMagMeanFreq’ a numeric vector
+     ‘fBodyBodyGyroJerkMagMeanFreq’
 
-     ‘tBodyAccStdX’ a numeric vector
+     ‘tBodyAccStdX’
 
-     ‘tBodyAccStdY’ a numeric vector
+     ‘tBodyAccStdY’
 
-     ‘tBodyAccStdZ’ a numeric vector
+     ‘tBodyAccStdZ’
 
-     ‘tGravityAccStdX’ a numeric vector
+     ‘tGravityAccStdX’
 
-     ‘tGravityAccStdY’ a numeric vector
+     ‘tGravityAccStdY’
 
-     ‘tGravityAccStdZ’ a numeric vector
+     ‘tGravityAccStdZ’
 
-     ‘tBodyAccJerkStdX’ a numeric vector
+     ‘tBodyAccJerkStdX’
 
-     ‘tBodyAccJerkStdY’ a numeric vector
+     ‘tBodyAccJerkStdY’
 
-     ‘tBodyAccJerkStdZ’ a numeric vector
+     ‘tBodyAccJerkStdZ’
 
-     ‘tBodyGyroStdX’ a numeric vector
+     ‘tBodyGyroStdX’
 
-     ‘tBodyGyroStdY’ a numeric vector
+     ‘tBodyGyroStdY’
 
-     ‘tBodyGyroStdZ’ a numeric vector
+     ‘tBodyGyroStdZ’
 
-     ‘tBodyGyroJerkStdX’ a numeric vector
+     ‘tBodyGyroJerkStdX’
 
-     ‘tBodyGyroJerkStdY’ a numeric vector
+     ‘tBodyGyroJerkStdY’
 
-     ‘tBodyGyroJerkStdZ’ a numeric vector
+     ‘tBodyGyroJerkStdZ’
 
-     ‘tBodyAccMagStd’ a numeric vector
+     ‘tBodyAccMagStd’
 
-     ‘tGravityAccMagStd’ a numeric vector
+     ‘tGravityAccMagStd’
 
-     ‘tBodyAccJerkMagStd’ a numeric vector
+     ‘tBodyAccJerkMagStd’
 
-     ‘tBodyGyroMagStd’ a numeric vector
+     ‘tBodyGyroMagStd’
 
-     ‘tBodyGyroJerkMagStd’ a numeric vector
+     ‘tBodyGyroJerkMagStd’
 
-     ‘fBodyAccStdX’ a numeric vector
+     ‘fBodyAccStdX’
 
-     ‘fBodyAccStdY’ a numeric vector
+     ‘fBodyAccStdY’
 
-     ‘fBodyAccStdZ’ a numeric vector
+     ‘fBodyAccStdZ’
 
-     ‘fBodyAccJerkStdX’ a numeric vector
+     ‘fBodyAccJerkStdX’
 
-     ‘fBodyAccJerkStdY’ a numeric vector
+     ‘fBodyAccJerkStdY’
 
-     ‘fBodyAccJerkStdZ’ a numeric vector
+     ‘fBodyAccJerkStdZ’
 
-     ‘fBodyGyroStdX’ a numeric vector
+     ‘fBodyGyroStdX’
 
-     ‘fBodyGyroStdY’ a numeric vector
+     ‘fBodyGyroStdY’
 
-     ‘fBodyGyroStdZ’ a numeric vector
+     ‘fBodyGyroStdZ’
 
-     ‘fBodyAccMagStd’ a numeric vector
+     ‘fBodyAccMagStd’
 
-     ‘fBodyBodyAccJerkMagStd’ a numeric vector
+     ‘fBodyBodyAccJerkMagStd’
 
-     ‘fBodyBodyGyroMagStd’ a numeric vector
+     ‘fBodyBodyGyroMagStd’
 
-     ‘fBodyBodyGyroJerkMagStd’ a numeric vector
+     ‘fBodyBodyGyroJerkMagStd’
 
 ## Examples:
 
