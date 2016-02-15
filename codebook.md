@@ -6,9 +6,9 @@
 
      A data frame with 180 observations on the following 81 variables.
 
-     ‘subject’ a numeric vector
+     ‘subject’ Specific person from a group of 30 volunteers within an age bracket of 19-48 years
 
-     ‘activity’ a factor with levels ‘LAYING’ ‘SITTING’ ‘STANDING’
+     ‘activity’ activity performed by a subject ‘LAYING’ ‘SITTING’ ‘STANDING’
           ‘WALKING’ ‘WALKING_DOWNSTAIRS’ ‘WALKING_UPSTAIRS’
 
      ‘tBodyAccMeanX’ a numeric vector
